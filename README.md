@@ -5,14 +5,14 @@
 
 ## Installation
 ```
-npm install weixin-pay
+npm install @tg1518/weixin-pay
 ```
 
 ## Usage
 
 创建统一支付订单
 ```js
-var WXPay = require('weixin-pay');
+var WXPay = require('@tg1518/weixin-pay');
 
 var wxpay = WXPay({
 	appid: 'xxxxxxxx',
